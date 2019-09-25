@@ -26,8 +26,12 @@ def base_hash
       },
       :shortline=>
       {
+        "mortgage_value"=>"$800"
+      }
     }
-    
+    }
+  }
+  
   }
 end
 
